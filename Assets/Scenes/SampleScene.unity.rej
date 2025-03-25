@@ -1,0 +1,9 @@
+diff a/Assets/Scenes/SampleScene.unity b/Assets/Scenes/SampleScene.unity	(rejected hunks)
+@@ -24270,6 +24270,7 @@
+ +      value: -44.37149
+ +=======
+        value: -43.405884
+++>>>>>>> 4007113 (background-Itemfix)
+        objectReference: {fileID: 0}
+      - target: {fileID: 3015077974765902339, guid: 55564fd5febb70b4eb06013da6ed4359, type: 3}
+        propertyPath: playerStatContainersParent
